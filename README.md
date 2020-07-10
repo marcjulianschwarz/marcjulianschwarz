@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Currently studying Data Science at FAU university.
 
-# Sharing Data Science projects of all sorts.
+### Sharing Data Science projects of all sorts.
 
 My website: https://www.marc-julian.de
 
