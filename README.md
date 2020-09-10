@@ -1,9 +1,9 @@
 # Hi there 👋
 
-## Currently studying Data Science at FAU university.
+## Currently studying Data Science at FAU in Erlangen.
 
-### Sharing Data Science projects of all sorts.
+### Sharing Data Science projects.
 
 My website: https://www.marc-julian.de
-
-Kaggle Account: https://www.kaggle.com/marcjulian
+Kaggle account: https://www.kaggle.com/marcjulian
+Twitter account: https://twitter.com/marcjulian_DS
