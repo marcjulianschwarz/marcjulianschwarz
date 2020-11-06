@@ -14,6 +14,6 @@ It preprocesses the API data, automatically stores it and synchronizes it over i
 
 Currently both the Telekom widget and module only support German Telekom contracts. This is the reason why the README files are all in german language.
 
-### Contact me here:
+## Contact me here:
 - <a href="https://www.marc-julian.de">Website/Mail</a>
 - <a href="https://twitter.com/marcjulian_DS">Twitter @marcjulian_DS</a>
