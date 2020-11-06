@@ -6,7 +6,7 @@ Other interests are spaceflight (especially developements at SpaceX) and the med
 ## Projects:
 ### Telekom Widget:
 The <a href="">Telekom widget</a> shows information about your current data usage on your homescreen (iOS 14).
-All features are listed in the <a href"">README file</a>. 
+All features are listed in the <a href="">README file</a>. 
 
 ### Telekom Module:
 To easily implement data from the Telekom API, I created a Javascript module which can be used in your own projects. 
