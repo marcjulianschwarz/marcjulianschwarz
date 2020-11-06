@@ -1,5 +1,7 @@
 # Hi there 👋
-
+My name is Marc Julian Schwarz and currently I am studying Data Science at the Friedrich-Alexander-University in Erlangen. 
+I love coding that's why I will share some of my projects here. Of course I also enjoy everything related to Data Science like Machine Learning, data visualizations, Deep Learning and math.
+Other interests are spaceflight (especially developements at SpaceX) and the medical applications of Data Science.
 
 ### Telekom Widget:
 The <a href="">Telekom widget</a> shows information about your current data usage on your homescreen (iOS 14).
