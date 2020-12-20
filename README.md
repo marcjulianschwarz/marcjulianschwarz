@@ -1,5 +1,5 @@
-# Hi there 👋
-My name is Marc Julian Schwarz and currently I am studying Data Science at the Friedrich-Alexander-University in Erlangen. 
+# Hi there, I am Marc Julian 👋
+currently I am studying **Data Science** at the Friedrich-Alexander-University in Erlangen. 
 I love coding that's why I will share some of my projects here. Of course I also enjoy everything related to Data Science like Machine Learning, data visualizations, Deep Learning and math. (<a href="https://www.kaggle.com/marcjulian">My Kaggle account</a>)
 Other interests are spaceflight (especially developements at SpaceX) and the medical applications of Data Science.
 
