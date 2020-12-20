@@ -9,7 +9,7 @@ A small collection of my JavaScript scripts which can be used to create both bea
 
 ### Telekom Module:
 To easily implement data from the Telekom API, I created a Javascript module which can be used in your own (Scriptable) projects. 
-It preprocesses the API data, automatically stores it and synchronizes it over iCloud. For more information and instructions on how to use it can be found <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget/tree/main/telekom-module">here</a>.
+It preprocesses the API data, automatically stores it and synchronizes it over iCloud. More information and instructions on how to use it can be found <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget/tree/main/telekom-module">here</a>.
 
 Currently both the Telekom widget and module only support German Telekom contracts. This is the reason why their README files are all in german language.
 
