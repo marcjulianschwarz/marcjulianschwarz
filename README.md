@@ -15,4 +15,4 @@ Currently both the Telekom widget and module only support German Telekom contrac
 
 ## Contact me here:
 - <a href="https://www.marc-julian.de">Website/Mail</a>
-- <a href="https://twitter.com/marcjulian_DS">Twitter @marcjulian_DS</a>
+- Twitter <a href="https://twitter.com/marcjulian_DS">@marcjulian_DS</a>
