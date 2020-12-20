@@ -5,7 +5,7 @@ Other interests are spaceflight (especially developements at SpaceX) and the med
 
 ## Projects:
 ### Scriptable iOS Widgets: (<a href="https://github.com/marcjulianschwarz/scriptable-widgets">-> here</a>)
-A small collection of JavaScript scripts which can be used to create both beautiful and useful widget for iOS 14. All widgets are free to use and can be changed to your liking. In the general <a href="https://github.com/marcjulianschwarz/scriptable-widgets">README file</a> you will find instructions on how to use the scripts with the <a href="https://scriptable.app/">Scriptable</a> app.
+A small collection of my JavaScript scripts which can be used to create both beautiful and useful widget for iOS 14. All widgets are free to use and can be changed to your liking. In the general <a href="https://github.com/marcjulianschwarz/scriptable-widgets">README file</a> you will find instructions on how to use the scripts with the <a href="https://scriptable.app/">Scriptable</a> app.
 
 ### Telekom Module:
 To easily implement data from the Telekom API, I created a Javascript module which can be used in your own (Scriptable) projects. 
