@@ -1,5 +1,5 @@
 # Hi there, I am Marc Julian 👋
-currently I am studying **Data Science** at the Friedrich-Alexander-University in Erlangen. 
+currently I am studying **Data Science** at Friedrich-Alexander-University in Erlangen. 
 I love coding that's why I will share some of my projects here. Of course I also enjoy everything related to Data Science like machine learning, data visualizations, deep learning and math. (<a href="https://www.kaggle.com/marcjulian">My Kaggle account</a>)
 Other interests are spaceflight (especially developements at SpaceX) and the medical applications of Data Science.
 <br><br>
