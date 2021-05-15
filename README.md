@@ -1,9 +1,9 @@
-# Hi there, I am Marc Julian 👋
-currently I am studying **Data Science** at Friedrich-Alexander-University in Erlangen. 
+# Hi, I am Marc Julian 👋
+I am studying **Data Science** at Friedrich-Alexander-University in Erlangen.
 I love coding that's why I will share some of my projects here. Of course I also enjoy everything related to Data Science like machine learning, data visualizations, deep learning and math. (<a href="https://www.kaggle.com/marcjulian">My Kaggle account</a>)
 Other interests are spaceflight (especially developements at SpaceX) and the medical applications of Data Science.
 <br><br>
-Also I am writing on my own <a href="https://blog.marc-julian.de"><strong>Blog</strong></a> about various topics that come to my mind. Check it out and let me know if you like it.
+Also I am writing on my own <a href="https://www.marc-julian.de"><strong>Blog</strong></a> about various topics that come to my mind. Check it out and let me know if you like it.
 
 
 ## Projects:
@@ -18,5 +18,4 @@ Currently both the Telekom widget and module only support German Telekom contrac
 
 ## Contact me here:
 - <a href="https://www.marc-julian.de">Website/Mail</a>
-- Twitter <a href="https://twitter.com/marcjulian_DS">@marcjulian_DS</a>
-- <a href="https://www.linkedin.com/in/marcjulian/?originalSubdomain=de">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/marcjulian/">LinkedIn</a>
