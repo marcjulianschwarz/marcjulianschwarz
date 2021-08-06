@@ -1,4 +1,4 @@
-# Hi,
+# Hi 👋
 I am a Data Science student at Friedrich-Alexander university working at Fraunhofer IIS as research assistant.
 
 ## Contact me here:
