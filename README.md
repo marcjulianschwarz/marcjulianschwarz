@@ -1,5 +1,5 @@
 # Hi 👋
-I am a Data Science student at Friedrich-Alexander university working at Fraunhofer IIS as research assistant.
+I am a Data Science student at Friedrich-Alexander university working at Fraunhofer IIS as research assistant. My interests are the application of data science in research fields related to localization, transportation and medicine.
 
 ## Contact me here:
 - <a href="https://www.marc-julian.de">Website/Mail</a>
