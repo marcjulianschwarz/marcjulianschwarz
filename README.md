@@ -1,5 +1,5 @@
 # Hi,
-I am a Data Science student at Friedrich-Alexander university.
+I am a Data Science student at Friedrich-Alexander university working at Fraunhofer IIS as research assistant.
 
 ## Contact me here:
 - <a href="https://www.marc-julian.de">Website/Mail</a>
