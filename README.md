@@ -9,4 +9,5 @@ I am a Data Science student at Friedrich-Alexander-University Erlangen-Nürnberg
 ## Projects:
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets">Collection of Scriptable iOS 14 widgets</a>
 - <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget/tree/main/telekom-module">Telekom module and widget</a>
+- <a href="https://www.marc-julian.de">Blog</a>
 
