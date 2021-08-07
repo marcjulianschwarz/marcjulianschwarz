@@ -11,3 +11,4 @@ I am a Data Science student at Friedrich-Alexander-University Erlangen-Nürnberg
 - <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget/tree/main/telekom-module">Telekom module and widget</a>
 - <a href="https://www.marc-julian.de">Blog</a>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="marcjulian" data-color="#FF5F5F" data-emoji=""  data-font="Arial" data-text="Buy me a coffee 💛" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
