@@ -8,6 +8,8 @@ A Data Science student from Germany!
   - 🧬 Medicine
 - 📝 My Blog: <a href="https://www.marc-julian.de">marc-julian.de</a>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marcjulianschwarz&show_icons=true)
+
 
 ## Contact me here:
 - <a href="https://www.marc-julian.de">Website/Mail</a>
