@@ -5,7 +5,7 @@ A Data Science student from Germany!
 - Interested in the application of data science in research fields related to:
   - 🚀 Spaceflight
   - 🚗 Transportation
-  - 🧬 Medicine
+  - 🧬 Health (Medical Data Science)
   - 📚 Knowledge Management
 - ✏️ My Blog: <a href="https://www.marc-julian.de">marc-julian.de</a>
 
