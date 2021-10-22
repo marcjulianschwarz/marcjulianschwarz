@@ -16,7 +16,7 @@ A Data Science student from Germany!
 - <a href="https://github.com/marcjulianschwarz/obsidian-file-link">Obsidian Better File Links Plugin</a>
 
 **New projects I am currently working on:**
-- <a href="https://github.com/marcjulianschwarz/apple-health-analyser">Apple Helath Analysis Python Package</a>
+- <a href="https://github.com/marcjulianschwarz/apple-health-analyser">Apple Health Analysis Python Package</a>
 - <a href="https://github.com/marcjulianschwarz/datascience-discord-bot">Data Science Discord Bot</a>
 
 **Old projects:**
