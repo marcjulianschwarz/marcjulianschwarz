@@ -17,6 +17,7 @@ A Data Science student from Germany!
 
 **New projects I am currently working on:**
 - <a href="https://github.com/marcjulianschwarz/apple-health-analyser">Apple Health Analysis Python Package</a>
+- <a href="https://github.com/marcjulianschwarz/obsidian-raycast">Obsidian Raycast Extension</a>
 - <a href="https://github.com/marcjulianschwarz/datascience-discord-bot">Data Science Discord Bot</a>
 
 **Old projects:**
