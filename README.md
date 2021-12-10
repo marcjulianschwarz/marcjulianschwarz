@@ -6,7 +6,7 @@ A Data Science student from Germany!
   - 🚀 Spaceflight
   - 🚗 Transportation
   - 🧬 Health (Medical Data Science)
-  - 📚 Knowledge Management
+- 📚 Knowledge Management
 - ✏️ My Blog: <a href="https://www.marc-julian.de">marc-julian.de</a>
 
 ## Projects:
