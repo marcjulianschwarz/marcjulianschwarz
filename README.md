@@ -23,7 +23,7 @@ A Data Science student from Germany!
 **Old projects:**
 - <a href="https://github.com/marcjulianschwarz/homebridge-plugins">Simple Smarthome Plugins for Homebridge</a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marcjulianschwarz&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marcjulianschwarz&show_icons=true&hide_rank=true)
 
 
 ## Contact me here:
