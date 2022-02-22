@@ -2,7 +2,7 @@
 A Data Science student from Germany!
 
 - 👨🏻‍💻 Working as research assistant at Fraunhofer IIS
-- Interested in the application of data science in research fields related to:
+- Interested in the application of Data Science in research fields related to:
   - 🚀 Spaceflight
   - 🚗 Transportation
   - 🧬 Health (Medical Data Science)
@@ -10,19 +10,23 @@ A Data Science student from Germany!
 - 📚 Knowledge Management
 - ✏️ My Blog: <a href="https://www.marc-julian.de">marc-julian.de</a>
 
+## Working on
+- <a href="https://github.com/marcjulianschwarz/apple-health-analyser">watchlib</a> a Python module to load, analyze and visualize Apple Watch health data
+
 ## Projects
+- <a href="https://github.com/marcjulianschwarz/obsidian-raycast">Obsidian for Raycast</a>
+- <a href="https://github.com/marcjulianschwarz/obsidian-file-link">Obsidian Better File Link</a>
+- <a href="https://github.com/marcjulianschwarz/obsidian-podcast-note">Obsidian Pocast Note</a>
 - <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget">Telekom Data Usage Widget</a>
-- <a href="https://github.com/marcjulianschwarz/scriptable-widgets">Scriptable Widget Collection</a>
-- <a href="https://github.com/marcjulianschwarz/obsidian-podcast-note">Obsidian Pocast Note Plugin</a>
-- <a href="https://github.com/marcjulianschwarz/obsidian-file-link">Obsidian Better File Links Plugin</a>
-- <a href="https://github.com/marcjulianschwarz/obsidian-raycast">Obsidian Raycast Extension</a>
+- <a href="https://github.com/marcjulianschwarz/scriptable-widgets">Several Scriptable Widgets</a>
+  - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/boca-chica-spacex">SpaceX Boca Chica</a> (road closures and TFRs for Brownsville)
+  - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/germany-rain-radar">Germany Rain Radar</a>
+  - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/nasa-pictures">Daily NASA pictures</a>
+  - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/newsroom">Apple Newsroom</a>
 
-**Work in progress**
-- <a href="https://github.com/marcjulianschwarz/apple-health-analyser">Apple Health Analysis Python Package</a>
+**Old**
+- <a href="https://github.com/marcjulianschwarz/homebridge-plugins">Smarthome Plugins for Homebridge</a> (running on a Raspberry Pi)
 - <a href="https://github.com/marcjulianschwarz/datascience-discord-bot">Data Science Discord Bot</a>
-
-**Old projects**
-- <a href="https://github.com/marcjulianschwarz/homebridge-plugins">Simple Smarthome Plugins for Homebridge</a>
 
 ## Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marcjulianschwarz&show_icons=true&hide_rank=true)
@@ -31,5 +35,7 @@ A Data Science student from Germany!
 
 
 ## Contact me here:
-- <a href="https://www.marc-julian.de">Website/Mail</a>
+- <a href="https://www.marc-julian.de">Website</a>
 - <a href="https://www.linkedin.com/in/marcjulian/">LinkedIn</a>
+- Discord: *bioxept#0420*
+- Discord Server: <a href="https://discord.gg/KVxRd8zse8">Marcs Community</a>
