@@ -37,5 +37,4 @@ A Data Science student from Germany!
 ## Contact me here:
 - <a href="https://www.marc-julian.de">Website</a>
 - <a href="https://www.linkedin.com/in/marcjulian/">LinkedIn</a>
-- Discord: *bioxept#0420*
-- Discord Server: <a href="https://discord.gg/KVxRd8zse8">Marcs Community</a>
+- <a href="https://www.twitter.com/marcjulian_DS">Twitter</a>
