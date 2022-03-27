@@ -14,7 +14,7 @@ A Data Science student from Germany!
 - <a href="https://github.com/marcjulianschwarz/apple-health-analyser">watchlib</a> a Python module to load, analyze and visualize Apple Watch health data
 - wind turbine recognition (binary classification) on satellite image data
 
-## Projects
+## Released
 - <a href="https://github.com/marcjulianschwarz/obsidian-raycast">Obsidian for Raycast</a>
 - <a href="https://github.com/marcjulianschwarz/obsidian-file-link">Obsidian Better File Link</a>
 - <a href="https://github.com/marcjulianschwarz/obsidian-podcast-note">Obsidian Pocast Note</a>
