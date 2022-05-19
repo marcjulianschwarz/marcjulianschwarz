@@ -1,7 +1,7 @@
 # Hi I'm Marc Julian! ✌🏼
 A Data Science student from Germany!
 
-- 👨🏻‍💻 Working as research assistant at Fraunhofer IIS
+- 👨🏻‍💻 Working as a research assistant at Fraunhofer IIS
 - Interested in the application of Data Science in research fields related to:
   - 🚀 Spaceflight
   - 🚗 Transportation
@@ -11,9 +11,10 @@ A Data Science student from Germany!
 - ✏️ My Blog: <a href="https://www.marc-julian.de">marc-julian.de</a>
 
 ## Working on
-- <a href="https://github.com/marcjulianschwarz/apple-health-analyser">watchlib</a> a Python module to load, analyze and visualize Apple Watch health data
+- <a href="https://github.com/marcjulianschwarz/apple-health-analyser">watchlib</a>, a Python module to load, analyze, and visualize Apple Watch health data
 - wind turbine recognition (binary classification) on satellite image data
-- iOS app for Cardistry
+- iOS and Web app for Cardistry
+- iOS "Health Challenge" app
 
 ## Released
 - <a href="https://github.com/marcjulianschwarz/obsidian-raycast">Obsidian for Raycast</a>
