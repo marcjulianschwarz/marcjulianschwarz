@@ -29,7 +29,6 @@ A Data Science student from Germany!
 
 **Old**
 - <a href="https://github.com/marcjulianschwarz/homebridge-plugins">Smarthome Plugins for Homebridge</a> (running on a Raspberry Pi)
-- <a href="https://github.com/marcjulianschwarz/datascience-discord-bot">Data Science Discord Bot</a>
 
 ## Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marcjulianschwarz&show_icons=true&hide_rank=true)
