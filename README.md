@@ -9,10 +9,9 @@
 </p>
 
 
-- 🎓 Data Science student from Germany!
-- 👨🏻‍💻 Working as a research assistant at Fraunhofer IIS
-- 📚 Knowledge Management
-- ✏️ My Blog: <a href="https://www.marc-julian.de">marc-julian.de</a>
+- 🎓 Data Science student from Germany
+- 👨🏻‍💻 Research assistant at Fraunhofer IIS
+- 📚 Knowledge Management Fan
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=marcjulianschwarz&show_icons=true&hide_rank=true"></p>
