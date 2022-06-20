@@ -8,11 +8,19 @@
   <a href="https://www.twitter.com/marcjulian_DS">Twitter</a>
 </p>
 
+<br>
 
-- 🎓 Data Science student from Germany
-- 👨🏻‍💻 Research assistant at Fraunhofer IIS
-- 📚 Knowledge Management Fan
+<p align="center">
+🎓 Data Science student from Germany
+</p>
+<p align="center">
+👨🏻‍💻 Research assistant at Fraunhofer IIS
+</p>
+<p align="center">
+📚 Knowledge Management Fan
+</p>
 
+<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=marcjulianschwarz&show_icons=true&hide_rank=true"></p>
 
