@@ -4,8 +4,7 @@
   <a href="https://www.linkedin.com/in/marcjulian/">LinkedIn</a>
 |
 <a href="https://www.marc-julian.de">Blog</a>
-|
-  <a href="https://www.twitter.com/marcjulian_DS">Twitter</a>
+
 </p>
 
 <br>
