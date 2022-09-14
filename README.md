@@ -13,7 +13,7 @@
 🎓 Data Science student from Germany
 </p>
 <p align="center">
-👨🏻‍💻 Research assistant at Fraunhofer IIS
+👨🏻‍💻 AI Office at DATEV
 </p>
 <p align="center">
 📚 Knowledge Management Fan
