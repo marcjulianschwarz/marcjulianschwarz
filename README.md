@@ -6,6 +6,7 @@
 - [counter.marc-julian.com](https://counter.marc-julian.com/) - Count anything here, inspired by Alltagszähler
 - [wizard.marc-julian.com](https://wizard.marc-julian.com/) - Play the card game Wizard with awesome statistics instead of pen and paper
 - [Desk Automation](https://github.com/marcjulianschwarz/ha-desk-automation) - ESP8266 Height-Adjustable Desk Control with Home Assistant and Raycast Integration
+- [Go Blog](https://github.com/marcjulianschwarz/go-blog) - Fast static site blog generator running on a single folder of markdown files. Written in Go.
 
 
 ## Writing
