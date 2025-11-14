@@ -1,6 +1,7 @@
 # Marc Julian Schwarz
 
 ## Projects
+- [Sammlung.app](https://sammlung.app) - The aggregator for your digital life. Built for knowledge workers.
 - [Obsidian for Raycast](https://www.raycast.com/marcjulian/obsidian) - Obsidian notes at your fingertips
 - [mdsnip.com](https://mdsnip.com/) - Share short unique URLs for beautifully rendered markdown snippets
 - [counter.marc-julian.com](https://counter.marc-julian.com/) - Count anything here, inspired by Alltagszähler
