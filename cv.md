@@ -3,13 +3,7 @@
 **Software Engineer - Data Scientist**
 
 ## Personal Information
-
-+49 151 52260459  
 info@marc-julian.de
-
-Elmshorner Straße 99  
-25421 Pinneberg  
-Deutschland
 
 ## Web
 
