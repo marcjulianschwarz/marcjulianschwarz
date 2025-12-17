@@ -16,3 +16,6 @@
 - [marc-julian.com/blog](https://marc-julian.com/blog) - My blog
 - [notes.marc-julian.com](https://notes.marc-julian.com/) - Public notes about tech, coding, math, machine learning and much more
 - [the-brew-code.de](https://the-brew-code.de) - German wiki about hobby coffee brewing
+
+## Other
+- [Shots x Marc Julian](https://shots.marc-julian.com/) - My photography portfolio
