@@ -18,4 +18,6 @@
 - [the-brew-code.de](https://the-brew-code.de) - German wiki about hobby coffee brewing
 
 ## Other
-- [Shots x Marc Julian](https://shots.marc-julian.com/) - My photography portfolio
+- [Shots x Marc Julian](https://shots.marc-julian.com/) - Photography Gallery
+- [lib.marc-julian.com](https://lib.marc-julian.com/) - Ever expanding library of React components, hooks, snippets, design systems and templates
+- [status.marc-julian.com](https://status.marc-julian.com/) - Status and overview for all of my websites and web apps
